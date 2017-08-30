@@ -1,0 +1,8 @@
+Questions:
+1.try to send mails using python
+2.Sentence segmentation using wikipedia or webcrawler(?)(use diff pakages).
+3.learn about conda virtual machine and install it
+      :Add the locations of conda & pythonin environment(This pc->properties->Advanced system properties->Environment varaibles->
+        system variables->add path)
+
+ Book:Automate boring stuff with python
