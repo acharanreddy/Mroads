@@ -1,13 +1,12 @@
-18-08-17
-installation of conda environments
-setting paths for conda and python
-how does the jupyter notebook works.(user->browser->server->kernel and vice-verse)
+-installation of conda environments
+-setting paths for conda and python
+-how does the jupyter notebook works.(user->browser->server->kernel and vice-verse)
 ->resume-parsing:
      '__'is the predefined tags
 ->optmisation libraries:
-openblas
-lapack
-lina
+-openblas
+-lapack
+-lina
 ->cpu and tpus
 ->nvedia
 	cudnn
