@@ -1,0 +1,23 @@
+18-08-17
+installation of conda environments
+setting paths for conda and python
+how does the jupyter notebook works.(user->browser->server->kernel and vice-verse)
+->resume-parsing:
+     '__'is the predefined tags
+->optmisation libraries:
+openblas
+lapack
+lina
+->cpu and tpus
+->nvedia
+	cudnn
+	cuda
+->Diff b/w java 1.8 & 1.7
+->nltklib
+->nice(to control usage of resources)
+->iteration[i for i in range(l)] / generation(i for i in range(1,100) )
+->pass(Does nothing)
+->assert exception(1==0)
+->try and exception
+->if l:#l is list
+    print("empty")

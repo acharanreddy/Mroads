@@ -1,0 +1,10 @@
+About ME:
+1)In which field are u interested.
+2)what are the research done based on ur interest.
+3)what are ur activities till now.
+Questions:
+1.try to send mails using python
+2.Sentence segmentation using wikipedia or webcrawler(?)(use diff pakages).
+3.learn about conda virtual machine and install it.
+
+ Book:Automate boring stuff with python

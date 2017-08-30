@@ -1,0 +1,33 @@
+session 3:
+->conda update --all
+   for updating the packages when u get connection error.
+->ipython
+   -magic commands(ipython.readthedocs.io/en/stable/interactive/magics.html)
+->use of underscore in python(https://shahriar.svbtle.com/underscores-in-python)
+->what init?(https://stackoverflow.com/questions/625083/python-init-and-self-what-do-they-do)
+->why private is not private in python.
+->hidden features in python.
+->automated boring stuff with python
+->u is used for unicode.
+->what tika has?(//www.ibm.com/developerworks/opensource/tutorials/os-apache-tika/index.html)
+->pyc files?(http://effbot.org/pyfaq/how-do-i-create-a-pyc-file.htm)
+->2 types of import:1)absolute(import package_name)and relate(import ..package_name){. for layer upper to the present layer)
+	what actually import does:(https://docs.python.org/3/reference/import.html)
+->2 methods other than self:@staticmethod and @classmethod.
+->iterators,generators,decorators.
+->in java create ur own custom anutations(https://www.javatpoint.com/java-annotation).
+	:@interface my_annotation (is used to create user defined annotations)
+->closures
+ 	getters,setters.
+->example to include cython in python.
+->cython guide for python.
+assign:
+	prepare a presentation on that topics(example).
+	complete resumeparsing.
+->2minute papers.
+->check a txt is gramatically correct
+->google code-lab.
+->Global interpretter python(multi-threading and multi-process).
+->pypy
+->jython
+->computer-vision,natural language processing
