@@ -1,0 +1,18 @@
+introduction to statics and data-analysis
+NLP(tool nltk{natural language tool kit})
+understand the python global interpreter lock (GIL) by (david beazley) www.dabeaz.com
+python cmds:
+        >>> print(*l)
+        1 2 3 4 5
+	>>> print(*l,sep="")
+	12345
+	>>> print(*l,sep="/")
+	1/2/3/4/5
+fossee better (same as nptel):
+	govt learning website.
+->linear reggression:session-4.ipynote
+assignment:
+bosston house prices data set.
+multiple_linear_regression(with visualization)
+
+	

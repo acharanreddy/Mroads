@@ -1,0 +1,16 @@
+#Support vector machine
+:Optimization problem
+diff svm and LR/neural nets
+:Hyperplane equ
+->http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf(svm guide)
+over and under fitting
+distance of a point from plane.
+seaborn package usage?
+	 :Seaborn is a Python visualization library based on matplotlib
+It provides a high-level interface for drawing attractive statistical graphics.
+Sources of errors:
+  Noise 
+  Bias(underfit)
+  Variance(overfit)
+Reduction of Bias:by selecting intermediate model(i.e not overfiting one)
+Try using splitting the data. 
