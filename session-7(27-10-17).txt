@@ -1,0 +1,14 @@
+#eigen values:https://deeplearning4j.org/eigenvector
+#confusion matrix  :http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+ :2types:
+        *pca(The main idea of principal component analysis (PCA) is to reduce the dimensionality of a data set consisting of many 
+              variables correlated with each other, either heavily or lightly, while retaining the variation present in the dataset, up to the maximum extent. ... 
+              As a layman, it is a method of summarizing data.)
+	https://www.dezyre.com/data-science-in-python-tutorial/principal-component-analysis-tutorial
+        *t-SNE : distributed stochastic neighbor embedding (t-SNE) is a machine learning algorithm for dimensionality reduction
+#Random forest
+relation between eigenvectors and these decision trees.
+#Google style guide:
+https://github.com/google/styleguide
+#python software foundation:https://www.python.org/psf/
+#Deeplearning:https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html

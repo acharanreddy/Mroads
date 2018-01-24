@@ -1,0 +1,9 @@
+NN-basic:
+why NN is used! :
+	This is called generalisation. Highly complex pattern recognition can be achieved by using a network of neurons hence the name neural networks. 
+	The networks normally used for pattern recognition are called feed forward because they have no feedback. They simply associate inputs with outputs.
+why only sigmoid function is used for activation function():
+	Sigmoid function is differentiable often used to introduce nonlinearity in the model
+work:
+https://www.kaggle.com/c/digit-recognizer
+try any basic nn assignment in tensor flow / 

@@ -1,0 +1,16 @@
+Neural-Networks
+*logical regressions:1/(1+e^-z);z=w.x+b;a=f(z)(here f is a function like sigmoid,tanh)
+Gradient decent:Finding global minina for optimisation
+(where gradient is a fancy word for slope/step-size)
+sigmoid 
+  relu->fast
+  tanh->faster than sigmaoid( Higher-learning rate)
+diff bw hyper-parameter and parameters
+-->
+Neural networks def:
+Layers :input,Hidden, output
+each layer has diff attributes(X(inputs),W(weigths),A(activation fun),Z(wx+b))
+BOOKS and websites:3blue1brown  ,  andrew gn.
+Tensor-Flow for packages.
+Feedback-Networks
+try diff layers and implement Neural networks

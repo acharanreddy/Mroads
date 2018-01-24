@@ -1,0 +1,7 @@
+Regarding applying any alogorithm on health-data set
+eda(exploratotary to data analysis)
+ensemble learning
+kaggle kernels
+Develop own  nn algorithms that contains more than 1 layer
+why particular alogorithm is used for the data set
+
